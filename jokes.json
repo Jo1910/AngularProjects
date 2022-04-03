@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "Category": "Animals",
+      "Body": "What do you do if your dog chews a dictionary? Take he words out of his mouth!"
+    },
+    {
+      "Category": "Animals",
+      "Body": "What happens when it rains cat and dogs? I don't know, but you can step into poodle."
+    },
+    {
+      "Category": "Animals",
+      "Body": "Why can't a leopard hide? Because he's always spotted."
+    },
+    {
+      "Category": "Animals",
+      "Body": "Where do milkshakes come from? Nervous cows"
+    },
+    {
+      "Category": "Animals",
+      "Body": "What's black and white and blue? A depressed zebra."
+    },
+    {
+      "Category": "Animals",
+      "Body": "What did the duck say when buying lipstick? Put it on my bill."
+    },
+    {
+      "Category": "History",
+      "Body": "Why were the early days of history called the dark ages? Because there were so many knights."
+    },
+    {
+      "Category": "History",
+      "Body": "What is the fruitiest subject in school? History, because it's full of dates."
+    },
+    {
+      "Category": "History",
+      "Body": "How was the Roman Empire cut in half? With a pair of Ceasers."
+    },
+    {
+      "Category": "History",
+      "Body": "How do you call a medieval dentist? A plaque doctor."
+    },
+    {
+      "Category": "History",
+      "Body": "What's a mummy's favourite type of music? Wrap."
+    },
+    {
+      "Category": "History",
+      "Body": "What did pharaon say when he saw the pyramid? Mummy's home!"
+    }
+  ]
+}
